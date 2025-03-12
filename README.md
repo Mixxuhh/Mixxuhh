@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mixxuhh
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning html, CSS, and java at the University of Utah Bootcamp
+- 🌱 I’m currently learning html, CSS, and javascript/typescript at the University of Utah Bootcamp
 - 💞️ I’m looking to collaborate on School and personal Projects
 - 📫 How to reach me wwcrase@gmail.com
 - 😄 Pronouns: he/him
